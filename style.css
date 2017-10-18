@@ -1,0 +1,180 @@
+/* CSS reset */
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	
+}
+
+/* HTML5 display-role reset for older browsers */
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* Add CSS code to Project 2 */
+
+/* Main Navigation */
+
+p{
+	font-family: 'Roboto', san-serif;
+	font-weight: normal;
+	margin-left: 10px;
+	margin-top: 5px;
+	margin-bottom: 15px;
+	font-size: 15px/30px;
+}
+
+h2 {
+	font-family: 'Roboto', san-serif;
+	margin: 40px;
+	font-size: 40px;
+}
+
+h3{
+	font-family: "Roboto", san-serif;
+	margin: 10px 40px 0px 40px;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+h4{
+	font-family:'Roboto', san-serif;
+	margin: 10px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+/*nav css*/
+
+nav#link {
+	background-color: black;
+	position: relative;
+	top: 0;
+	width: 100%;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	padding: 10px 0px;
+}
+
+nav#link ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+nav#link ul li {
+	font-family: "Roboto", san-serif;
+	float: left;
+	margin: 10px 0px;
+	padding: 0px 10px;
+}
+
+nav#link ul li a {
+	display: block;
+	padding: 10px;
+	font-size: 15px;
+	color:	white;
+	text-decoration: none;
+	text-align: left;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: "Roboto", san-serif;
+}
+
+nav#link ul li a:hover {
+	color: black;
+}
+
+/*index*/
+
+#intro{
+	overflow: auto;
+	margin: 20px;
+	padding: 10px;
+	border: 2px solid gray;
+}
+
+.photo1{
+	width: 70%;
+	height: auto;
+	margin: 10px;
+}
+
+/*resume*/
+
+#resu {
+	overflow:auto;
+	margin: 20px;
+	padding: 10px;
+	border:2px solid gray;
+	font: 15px/18px 'Roboto', sans-serif;
+}
+
+#resu ul{
+	font: 14px/30px 'Arial', sans-serif;
+	list-style-type: disc;
+	margin: 10px 30px 10px 30px;
+}
+
+#info {
+	margin: 30px 40px 40px 30px;
+}
+
+/*hobbies*/
+
+#pho {
+	overflow:auto;
+	margin: 20px;
+	padding: 10px;
+	font: 15px/18px 'Roboto', sans-serif;
+}
+	
+.photo2{
+	width: 350px;
+	height: auto;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}	
+	
