@@ -200,8 +200,8 @@ nav#link ul li a:hover {
 /*hobbies*/
 
 #pho {
-	margin: 40px;
-	font: 15px/18px 'Roboto', sans-serif;
+	margin: 10px 30px 10px 30px;
+	font-size: 15px;
 }
 	
 #pho1 {
@@ -211,9 +211,7 @@ nav#link ul li a:hover {
 	
 .photo2{
 	width: 350px;
-	margin-right: 5px;
-	margin-bottom: 5px;
-	margin-left: 20px;
+	margin: 10px 30px 10px 30px;
 	padding: 10px;
 }
 	
