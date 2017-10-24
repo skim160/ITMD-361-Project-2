@@ -201,21 +201,19 @@ nav#link ul li a:hover {
 
 #pho {
 	margin: 40px;
-	padding: 10px;
 	font: 15px/18px 'Roboto', sans-serif;
 }
 	
 #pho1 {
 	margin: 40px;
-	padding: 10px;
 	font: 15px/18px 'Roboto', sans-serif;
 }	
 	
 .photo2{
 	width: 350px;
-	height: 264px;
 	margin-right: 5px;
 	margin-bottom: 5px;
 	margin-left: 20px;
+	padding: 10px;
 }
 	
