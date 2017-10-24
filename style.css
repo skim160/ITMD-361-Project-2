@@ -209,7 +209,7 @@ nav#link ul li a:hover {
 	font: 15px/18px 'Roboto', sans-serif;
 }	
 	
-.photo2{
+div.photo2 img{
 	width: 350px;
 	margin: 10px 30px 10px 30px;
 	padding: 10px;
