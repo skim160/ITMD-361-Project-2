@@ -204,11 +204,17 @@ nav#link ul li a:hover {
 	margin: 20px;
 	padding: 10px;
 	font: 15px/18px 'Roboto', sans-serif;
-	width: 350px
 }
 	
+#pho1 {
+	overflow:auto;
+	margin: 20px;
+	padding: 10px;
+	font: 15px/18px 'Roboto', sans-serif;
+}	
+	
 .photo2{
-	width: 350px;
+	width: 180px;
 	margin-right: 5px;
 	margin-bottom: 5px;
 	margin-left: 20px;
