@@ -186,6 +186,13 @@ nav#link ul li a:hover {
 	margin: 10px 30px 10px 30px;
 }
 
+#resu3 {
+	overflow:auto;
+	margin: 20px;
+	padding: 10px;
+	border:2px solid gray;
+	font: 15px/18px 'Roboto', sans-serif;
+	
 #info {
 	margin: 30px 40px 40px 30px;
 }
