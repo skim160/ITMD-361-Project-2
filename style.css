@@ -73,7 +73,7 @@ h2 {
 
 h3{
 	font-family: "Roboto", san-serif;
-	margin: 10px 40px 0px 40px;
+	margin: 10px 40px 10px 40px;
 	font-size: 17px;
 	font-weight: bold;
 }
@@ -201,20 +201,21 @@ nav#link ul li a:hover {
 
 #pho {
 	overflow:auto;
-	margin: 20px;
+	margin: 40px;
 	padding: 10px;
 	font: 15px/18px 'Roboto', sans-serif;
 }
 	
 #pho1 {
 	overflow:auto;
-	margin: 20px;
+	margin: 40px;
 	padding: 10px;
 	font: 15px/18px 'Roboto', sans-serif;
 }	
 	
 .photo2{
-	width: 180px;
+	width: 350px;
+	height: 264px;
 	margin-right: 5px;
 	margin-bottom: 5px;
 	margin-left: 20px;
