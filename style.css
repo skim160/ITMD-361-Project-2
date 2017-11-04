@@ -55,15 +55,6 @@ table {
 /* Add CSS code to Project 2 */
 
 /* Main Navigation */
-p{
-	font-family: 'Roboto', san-serif;
-	font-weight: normal;
-	margin-left: 20px;
-	margin-top: 5px;
-	margin-bottom: 15px;
-	font-size: 15px;
-}
-
 h2 {
 	font-family: 'Roboto', san-serif;
 	margin: 20px;
@@ -72,7 +63,7 @@ h2 {
 
 h3{
 	font-family: "Roboto", san-serif;
-	margin: 10px 40px 10px 20px;
+	margin:20px;
 	font-size: 17px;
 	font-weight: bold;
 }
@@ -86,7 +77,6 @@ h4{
 
 /*nav css*/
 nav#link {
-	overflow:hidden;
 	background-color: black;
 	position: fixed;
 	top: 0px;
