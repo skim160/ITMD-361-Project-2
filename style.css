@@ -58,20 +58,20 @@ table {
 p{
 	font-family: 'Roboto', san-serif;
 	font-weight: normal;
-	margin-left: 20px;
+	margin-left: 40px;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	font-size: 15px;
 }
 h2 {
 	font-family: 'Roboto', san-serif;
-	margin: 20px;
+	margin: 40px;
 	font-size: 40px;
 }
 
 h3{
 	font-family: "Roboto", san-serif;
-	margin:20px;
+	margin:40px;
 	font-size: 17px;
 	font-weight: bold;
 }
@@ -98,7 +98,6 @@ nav#link ul {
 }
 
 nav#link ul li a {
-	display: block;
 	padding: 10px;
 	font-size: 15px;
 	color:	white;
