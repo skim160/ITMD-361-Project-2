@@ -65,13 +65,13 @@ p{
 }
 h2 {
 	font-family: 'Roboto', san-serif;
-	margin: 40px;
+	margin: 20px;
 	font-size: 40px;
 }
 
 h3{
 	font-family: "Roboto", san-serif;
-	margin:40px;
+	margin:20px;
 	font-size: 17px;
 	font-weight: bold;
 }
@@ -98,6 +98,7 @@ nav#link ul {
 }
 
 nav#link ul li a {
+	display: block;
 	padding: 10px;
 	font-size: 15px;
 	color:	white;
