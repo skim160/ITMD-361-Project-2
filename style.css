@@ -55,6 +55,11 @@ table {
 /* Add CSS code to Project 2 */
 
 /* Main Navigation */
+p{
+	font-family: 'Roboto', san-serif;
+	font-weight: normal;
+	font-size: 15px;
+}
 h2 {
 	font-family: 'Roboto', san-serif;
 	margin: 20px;
