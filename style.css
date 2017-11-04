@@ -120,6 +120,8 @@ nav#link a:hover {
 /*index*/
 #intro{
 	overflow: auto;
+	margin: 10px;
+	padding: 10px;
 	border: 2px solid gray;
 	width:95%;	
 }
