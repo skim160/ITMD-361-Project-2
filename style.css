@@ -86,13 +86,17 @@ h4{
 /*nav css*/
 nav#link {
 	background-color: black;
-	position: fixed;
+	position: relative;
 	top: 0px;
 	width: 100%;
 	margin-bottom: 20px;
+	margin-top: 0px;
+	padding: 10px 0px;
 }
 
 nav#link ul {
+  list-style-type: none;
+  overflow: hidden;
 	margin-left:33%
 	margin-right:33%
 }
