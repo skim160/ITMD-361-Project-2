@@ -55,7 +55,6 @@ table {
 /* Add CSS code to Project 2 */
 
 /* Main Navigation */
-
 p{
 	font-family: 'Roboto', san-serif;
 	font-weight: normal;
@@ -86,7 +85,6 @@ h4{
 }
 
 /*nav css*/
-
 nav#link {
 	overflow:hidden;
 	background-color: black;
@@ -101,13 +99,6 @@ nav#link ul {
 	margin-right:33%
 }
 
-nav#link ul li {
-	font-family: "Roboto", san-serif;
-	float: left;
-	margin: 10px 0px;
-	padding: 0px 10px;
-}
-
 nav#link ul li a {
 	display: block;
 	padding: 10px;
@@ -120,12 +111,11 @@ nav#link ul li a {
 	font-family: "Roboto", san-serif;
 }
 
-nav#link ul li a:hover {
-	color: green;
+nav#link a:hover {
+	color: gray;
 }
 
 /*index*/
-
 #intro{
 	overflow: auto;
 	margin: 20px;
@@ -140,7 +130,6 @@ nav#link ul li a:hover {
 }
 
 /*resume*/
-
 #resu {
 	overflow:auto;
 	margin: 20px;
@@ -195,7 +184,6 @@ nav#link ul li a:hover {
 	font: 15px/18px 'Roboto', sans-serif;
 
 /*hobbies*/
-
 #pho {
 	margin: 10px 30px 10px 30px;
 	font-size: 15px;
@@ -211,4 +199,13 @@ div.photo2 img{
 	margin: 10px 30px 10px 30px;
 	padding: 10px;
 }
-	
+
+/*footer*/
+.footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 10px;
+  width: auto;
+  padding: 10px;
+  position: relative;
