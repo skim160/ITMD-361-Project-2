@@ -56,151 +56,136 @@ table {
 
 /* Main Navigation */
 p{
-	font-family: 'Roboto', san-serif;
-	font-weight: normal;
-	margin-left: 20px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	font-size: 15px;
+  font-family: 'Roboto', san-serif;
+  font-weight: normal;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 15px;
 }
 h2 {
-	font-family: 'Roboto', san-serif;
-	margin: 40px;
-	font-size: 40px;
+  font-family: 'Roboto', san-serif;
+  margin: 40px;
+  font-size: 40px;
 }
-
 h3{
-	font-family: "Roboto", san-serif;
-	margin:40px;
-	font-size: 17px;
-	font-weight: bold;
+  font-family: "Roboto", san-serif;
+  margin:40px;
+  font-size: 17px;	
+  font-weight: bold;
 }
-
 h4{
-	font-family:'Roboto', san-serif;
-	margin: 20px;
-	font-size: 12px;
-	font-weight: bold;
+  font-family:'Roboto', san-serif;
+  margin: 20px;
+  font-size: 12px;
+  font-weight: bold;
 }
 
 /*nav css*/
 nav#link {
-	background-color: black;
-	position: relative;
-	top: 0px;
-	width: 100%;
-	margin-bottom: 20px;
-	margin-top: 0px;
-	padding: 10px 0px;
+  background-color: black;
+  position: relative;
+  top: 0px;
+  width: 100%;
+  margin-bottom: 20px;
+  margin-top: 0px;
+  padding: 10px 0px;
 }
-
 nav#link ul {
   list-style-type: none;
   overflow: hidden;
-	margin-left:33%
-	margin-right:33%
-}
-
+  margin-left:33%
+  margin-right:33%
+} 
 nav#link ul li a {
-	display: block;
-	padding: 10px;
-	font-size: 15px;
-	color:	white;
-	text-decoration: none;
-	text-align: center;
-	text-transform: uppercase;
-	font-weight: bold;
-	font-family: "Roboto", san-serif;
-}
-
+  display: block;
+  padding: 10px;
+  font-size: 15px;
+  color:	white;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: "Roboto", san-serif;
+} 
 nav#link a:hover {
-	color: gray;
+  color: gray;
 }
 
 /*index*/
 #intro{
-	overflow: auto;
-	margin: 10px;
-	padding: 10px;
-	border: 2px solid gray;
-	width:95%;	
+  overflow: auto;
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid gray;
+  width:95%;	
 }
-
 .photo1{
-	width: 70%;
-	height: auto;
-	margin: 20px;
+  width: 70%;
+  height: auto;
+  margin: 20px;
 }
 
 /*resume*/
 #resu {
-	overflow:auto;
-	margin: 20px;
-	padding: 10px;
-	border:2px solid gray;
-	font: 15px/18px 'Roboto', sans-serif;
+  overflow:auto;
+  margin: 20px;
+  padding: 5px;
+  border:2px solid gray;
+  font: 15px/18px 'Roboto', sans-serif;
 }
-
 #resu ul{
-	font: 14px/30px 'Arial', sans-serif;
-	list-style-type: disc;
-	margin: 10px 30px 8px 30px;
+  font: 14px/30px 'Arial', sans-serif;
+  list-style-type: disc;
+  margin: 10px 30px 8px 30px;
 }
-
 #info {
 	margin: 20px 40px 40px 30px;
 }
-
 #resu1 {
-	overflow:auto;
-	margin: 20px;
-	padding: 10px;
-	border:2px solid gray;
-	font: 15px/18px 'Roboto', sans-serif;
+  overflow:auto;
+  margin: 20px;
+  padding: 10px;
+  border:2px solid gray;
+  font: 15px/18px 'Roboto', sans-serif;
 }
-
 #resu1 ul{
-	font: 14px/30px 'Arial', sans-serif;
-	list-style-type: disc;
-	margin: 10px 30px 8px 30px;
+  font: 14px/30px 'Arial', sans-serif;
+  list-style-type: disc;
+  margin: 10px 30px 8px 30px;
 }
-
 #resu2 {
-	overflow:auto;
-	margin: 20px;
-	padding: 10px;
-	border:2px solid gray;
-	font: 15px/18px 'Roboto', sans-serif;
+  overflow:auto;
+  margin: 20px;
+  padding: 10px;
+  border:2px solid gray;
+  font: 15px/18px 'Roboto', sans-serif;
 }
-
 #resu2 ul{
-	font: 14px/30px 'Arial', sans-serif;
-	list-style-type: disc;
-	margin: 10px 30px 8px 30px;
+  font: 14px/30px 'Arial', sans-serif;
+  list-style-type: disc;
+  margin: 10px 30px 8px 30px;
 }
-
 #resu3 {
-	overflow:auto;
-	margin: 20px;
-	padding: 10px;
-	border:2px solid gray;
-	font: 15px/18px 'Roboto', sans-serif;
+  overflow:auto;
+  margin: 20px;
+  padding: 10px;
+  border:2px solid gray;
+  font: 15px/18px 'Roboto', sans-serif;
 
 /*hobbies*/
 #pho {
-	margin: 10px 30px 10px 30px;
-	font-size: 15px;
-}
-	
-#pho1 {
-	margin: 40px;
-	font: 15px/18px 'Roboto', sans-serif;
+  margin: 10px 30px 10px 30px;
+  font-size: 15px;
 }	
-	
+#pho1 {
+  margin: 40px;
+  font: 15px/18px 'Roboto', sans-serif;
+}		
 div.photo2 img{
-	width: 350px;
-	margin: 10px 30px 10px 30px;
-	padding: 10px;
+  width: 350px;
+  margin: 10px 30px 10px 30px;
+  padding: 10px;
 }
 
 /*footer*/
