@@ -130,7 +130,7 @@ nav#link a:hover {
 #resu {
   overflow:auto;
   margin: 20px;
-  padding: 5px;
+  padding: 3px;
   border:2px solid gray;
   font: 15px/18px 'Roboto', sans-serif;
 }
@@ -140,12 +140,12 @@ nav#link a:hover {
   margin: 10px 30px 8px 30px;
 }
 #info {
-	margin: 20px 40px 40px 30px;
+	margin: 20px 40px 40px 20px;
 }
 #resu1 {
   overflow:auto;
   margin: 20px;
-  padding: 10px;
+  padding: 3px;
   border:2px solid gray;
   font: 15px/18px 'Roboto', sans-serif;
 }
@@ -157,7 +157,7 @@ nav#link a:hover {
 #resu2 {
   overflow:auto;
   margin: 20px;
-  padding: 10px;
+  padding: 3px;
   border:2px solid gray;
   font: 15px/18px 'Roboto', sans-serif;
 }
@@ -169,7 +169,7 @@ nav#link a:hover {
 #resu3 {
   overflow:auto;
   margin: 20px;
-  padding: 10px;
+  padding: 3px;
   border:2px solid gray;
   font: 15px/18px 'Roboto', sans-serif;
 
