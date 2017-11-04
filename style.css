@@ -191,9 +191,10 @@ div.photo2 img{
 /*footer*/
 .footer{
   background-color: black;
-  color: white;
+  color: gray;
   text-align: center;
   font-size: 10px;
   width: auto;
   padding: 10px;
   position: relative;
+  line-height: 1em;
