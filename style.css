@@ -58,26 +58,28 @@ table {
 p{
 	font-family: 'Roboto', san-serif;
 	font-weight: normal;
-	margin: 40px;
+	margin-left: 20px;
+	margin-top: 5px;
+	margin-bottom: 15px;
 	font-size: 15px;
 }
 
 h2 {
 	font-family: 'Roboto', san-serif;
-	margin: 40px;
+	margin: 20px;
 	font-size: 40px;
 }
 
 h3{
 	font-family: "Roboto", san-serif;
-	margin: 40px;
+	margin: 10px 40px 10px 20px;
 	font-size: 17px;
 	font-weight: bold;
 }
 
 h4{
 	font-family:'Roboto', san-serif;
-	margin: 40px;
+	margin: 20px;
 	font-size: 12px;
 	font-weight: bold;
 }
@@ -89,7 +91,7 @@ nav#link {
 	position: fixed;
 	top: 0px;
 	width: 100%;
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 }
 
 nav#link ul {
@@ -116,15 +118,17 @@ nav#link a:hover {
 /*index*/
 #intro{
 	overflow: auto;
-	margin: 20px;
-	padding: 10px;
+	margin:20px;
+	padding: 20px;
 	border: 2px solid gray;
+	width:100%;
+	
 }
 
 .photo1{
 	width: 70%;
 	height: auto;
-	margin: 10px;
+	margin: 20px;
 }
 
 /*resume*/
