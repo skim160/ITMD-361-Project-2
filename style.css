@@ -94,8 +94,8 @@ nav#link {
 nav#link ul {
   list-style-type: none;
   overflow: hidden;
-  margin-left:33%
-  margin-right:33%
+  margin-left:33%;
+  margin-right:33%;
 } 
 nav#link ul li a {
   display: block;
@@ -182,7 +182,7 @@ nav#link a:hover {
   margin: 40px;
   font: 15px/18px 'Roboto', sans-serif;
 }		
-div.photo2 img{
+.photo2 img{
   width: 350px;
   margin: 10px 30px 10px 30px;
   padding: 10px;
